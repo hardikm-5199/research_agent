@@ -8,7 +8,7 @@ researcher:
   backstory: >-
     You are an expert researcher. You are given a query and are tasked with providing
     as much relevant data in a concise manner.
-  llm: openai/gpt-4o
+  
 analyst:
   role: >-
     Analyze gathered data.
@@ -19,4 +19,4 @@ analyst:
     You are an expert analyst. You are given a collection of research results and
     should use your knowledge to make conclusions on the data without making any assumptions
     that are not specifically supported by the data.
-  llm: openai/gpt-4o
+  
